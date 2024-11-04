@@ -1,4 +1,4 @@
-### Hi there 👋
+You can also find me on sourcehut at https://git.sr.ht/~mx00s/.
 
 <!--
 **mx00s/mx00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
